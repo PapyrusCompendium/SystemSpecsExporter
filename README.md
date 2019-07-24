@@ -6,8 +6,8 @@
 
 This is a simple computer specs exporter tool, that can be used to export everything from hardware information
 to software installations. This can export to many destinations configured in the configuration panel. This tool was written  
-with systems administrators in mind. It's purpose is to help document the running state and hardware of new or old machines on  
-the network into a centralized location very quickly.
+with systems administrators in mind. It's purpose is to help document the running state and hardware of new or old  
+machines on the network into a centralized location very quickly.
 
 # How do I use this?
 To use this tool, simply run the configuration panel. Once the configuration panel opens you will be presented with many  
